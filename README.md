@@ -32,3 +32,7 @@ Inicialmente foi programado uma operação simples fazendo o tanque se mover par
 ## Bibliotecas utilizadas
 
 - em breve...
+
+## Esquema de montagem
+
+- em breve...
