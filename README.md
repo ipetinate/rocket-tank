@@ -27,7 +27,19 @@ Inicialmente foi programado uma operação simples fazendo o tanque se mover par
   - Bateria recarregável 12v 800mAh (de furadeira)
   - Bateria 18650 Li-ion 8800mAh 4.2V
 
+## Configuração do ambiente
 
+> Este projeto foi criado utilizando o PlatformIO IDE para VS Code
+
+1. Instale os drivers do seu Arduino e certifique-se que ele está sendo reconhecido pelo computador
+   1. [Arduino](https://www.robocore.net/tutoriais/instalando-driver-do-arduino)
+   2. [RoboCore BlackBoard UNO](https://www.robocore.net/tutoriais/instalacao-driver-da-blackboard)
+2. Instale o PlatformIO IDE no VS Code
+   1. [Instruções para instalação](https://docs.platformio.org/en/latest/integration/ide/vscode.html)
+3. Abra o PlatformIO IDE e deixe-o instalar suas dependências e fazer as configurações necessárias
+4. Clone o código do projeto para seu computador
+5. Abra a pasta do projeto com o VS Code
+6. Utilize os comandos do PlatformIO IDE para fazer o _build_ e _upload_ do projeto para seu Arduino
 
 ## Bibliotecas utilizadas
 
